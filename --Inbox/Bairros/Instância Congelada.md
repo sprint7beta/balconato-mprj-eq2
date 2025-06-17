@@ -6,3 +6,10 @@ Os moradores são comerciantes, que mantêm o funcionamento dos serviços mesmo 
 
 ## Problemas  
 O frio dificulta a circulação e o armazenamento de mercadorias, além de provocar aumento em doenças comuns da estação.
+
+
+
+| Imagem do Bairro                      | Conexões |
+| ------------------------------------- | -------- |
+| ![[9 - Instância Congelada.png\|200]] |          |
+

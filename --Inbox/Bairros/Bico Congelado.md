@@ -6,3 +6,7 @@ Os moradores são hábeis em escalada e caçada local. Costumam se reunir para t
 
 ## Problemas  
 O gelo sobre os penhascos causa frequentes quedas de pedras e torna o caminho perigoso. O frio intenso pode provocar doenças respiratórias.
+
+| Imagem do Bairro                 | Conexões |
+| -------------------------------- | -------- |
+| ![[2 - Bico Congelado.png\|200]] |          |

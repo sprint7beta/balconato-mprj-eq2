@@ -6,3 +6,9 @@ Moradores usam as cavernas para guardar alimentos e ferramentas durante o invern
 
 ## Problemas  
 O frio dentro das cavernas pode ser intenso e o ambiente úmido favorece problemas respiratórios. O acesso pode ser difícil em tempestades.
+
+
+
+| Imagem do Bairro             | Conexões |
+| ---------------------------- | -------- |
+| ![[7 - Gruta Fria.png\|200]] |          |

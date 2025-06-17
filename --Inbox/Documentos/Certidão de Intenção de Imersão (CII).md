@@ -9,3 +9,10 @@
     
 - **Requisitos:**  
     Só os que verdadeiramente _anseiam_ pelo mergulho merecem nadar. O Conselho exige este sinal de comprometimento para abrir as portas do LPN.
+
+
+Resumo do Documento 
+
+| Imagem do Documento                             | Requisitos do Documento |
+| ----------------------------------------------- | ----------------------- |
+| ![[Pasted image 20250617111916.png\|200\|300]]] |                         |

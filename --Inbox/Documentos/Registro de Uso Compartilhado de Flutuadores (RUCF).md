@@ -11,3 +11,10 @@
     Só quem dominou o equilíbrio (T7) e molhou os tornozelos com sabedoria (T4) pode entrar nesse pacto flutuante. Também é selo-chave para o salto final (T12).
 
 Depende de [[Autorização Provisória de Pé no Raso (APPR)]] e [[Atestado de Equilíbrio sobre Gelo (AEG)]]
+
+
+Resumo do Documento 
+
+| Imagem do Documento                             | Requisitos do Documento                                                                             |
+| ----------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| ![[Pasted image 20250617112239.png\|200\|300]]] | - [[Autorização Provisória de Pé no Raso (APPR)]] <br>- [[Atestado de Equilíbrio sobre Gelo (AEG)]] |

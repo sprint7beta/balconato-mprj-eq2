@@ -12,3 +12,9 @@
 
 Depende de [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]]
 
+
+Resumo do Documento 
+
+| Imagem do Documento                            | Requisitos do Documento                                       |
+| ---------------------------------------------- | ------------------------------------------------------------- |
+| ![[Pasted image 20250617111637.png\|200\|300]] | - [[Licença para Entrada em Áreas de Acúmulo de Gelo (LAAG)]] |

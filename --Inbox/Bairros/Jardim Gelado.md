@@ -6,3 +6,9 @@ Os moradores cuidam de plantas resistentes ao frio e utilizam estufas simples pa
 
 ## Problemas  
 A falta de luz solar e o frio prolongado prejudicam o cultivo. Estufas podem quebrar com o peso da neve, trazendo perdas.
+
+
+
+| Imagem do Bairro                 | Conexões |
+| -------------------------------- | -------- |
+| ![[10 - Jardim Gelado.png\|200]] |          |

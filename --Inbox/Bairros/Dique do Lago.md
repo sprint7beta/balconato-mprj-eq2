@@ -7,3 +7,8 @@ Mergulhar no lago durante o verão é o maior desejo dos habitantes. Durante o i
 ## Problemas  
 O gelo no lago é instável em certos pontos, representando risco para todos. O degelo pode causar enchentes rápidas.
 
+
+
+| Imagem do Bairro                | Conexões |
+| ------------------------------- | -------- |
+| ![[4 - Dique do Lago.png\|200]] |          |

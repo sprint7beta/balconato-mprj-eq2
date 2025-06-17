@@ -6,3 +6,9 @@ Trabalham com artesanato simples e pequenas plantações de inverno. O convívio
 
 ## Problemas  
 O isolamento dificulta o acesso a suprimentos e cuidados médicos. O frio intenso pode deixar estradas intransitáveis por dias.
+
+
+
+| Imagem do Bairro            | Conexões |
+| --------------------------- | -------- |
+| ![[5 - Ermo Frio.png\|200]] |          |

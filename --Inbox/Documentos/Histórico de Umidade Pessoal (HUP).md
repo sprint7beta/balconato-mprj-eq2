@@ -11,3 +11,10 @@
     Uma alma seca não recebe LPN. Este histórico, alimentado pela conduta (T10), é a gota final no cálice da avaliação.
 
 Depende de: [[Registro Único de Conduta Aquática (RUCA)]]
+
+
+Resumo do Documento 
+
+| Imagem do Documento                             | Requisitos do Documento                         |
+| ----------------------------------------------- | ----------------------------------------------- |
+| ![[Pasted image 20250617112128.png\|200\|300]]] | - [[Registro Único de Conduta Aquática (RUCA)]] |
