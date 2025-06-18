@@ -9,6 +9,6 @@ O frio constante torna difícil o transporte de cargas. A falta de isolamento ad
 
 
 
-| Imagem do Bairro               | Conexões |
-| ------------------------------ | -------- |
-| ![[6 - Fardo Gélido.png\|200]] |          |
+| Imagem do Bairro               | Conexões                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------- |
+| ![[6 - Fardo Gélido.png\|200]] | - [[Coroa Branca]] via [[Trenó]]<br><br>- [[Gruta Fria]] via [[Trenó]]<br><br>- [[Instância Congelada]] via [[Trenó]] |

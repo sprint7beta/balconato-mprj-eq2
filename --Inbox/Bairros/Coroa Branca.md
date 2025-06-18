@@ -9,6 +9,6 @@ O vento constante desgasta construções e dificulta o cultivo. Muitas casas pre
 
 
 
-| Imagem do Bairro               | Conexões |
-| ------------------------------ | -------- |
-| ![[3 - Coroa Branca.png\|200]] |          |
+| Imagem do Bairro               | Conexões                                                                                                                                             |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![[3 - Coroa Branca.png\|200]] | - [[Alva Neve]] via [[Barco]]<br><br>- [[Dique do Lago]] via [[Trenó]]<br><br>- [[Fardo Gélido]] via [[Trenó]]<br><br>- [[Gruta Fria]] via [[Barco]] |

@@ -9,6 +9,6 @@ O gelo no lago é instável em certos pontos, representando risco para todos. O 
 
 
 
-| Imagem do Bairro                | Conexões |
-| ------------------------------- | -------- |
-| ![[4 - Dique do Lago.png\|200]] |          |
+| Imagem do Bairro                | Conexões                                                                                                        |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| ![[4 - Dique do Lago.png\|200]] | - [[Bico Congelado]] via [[Trenó]]<br><br>- [[Coroa Branca]] via [[Trenó]]<br><br>- [[Ermo Frio]] via [[Trenó]] |

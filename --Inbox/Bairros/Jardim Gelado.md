@@ -9,6 +9,6 @@ A falta de luz solar e o frio prolongado prejudicam o cultivo. Estufas podem que
 
 
 
-| Imagem do Bairro                 | Conexões |
-| -------------------------------- | -------- |
-| ![[10 - Jardim Gelado.png\|200]] |          |
+| Imagem do Bairro                 | Conexões                                                               |
+| -------------------------------- | ---------------------------------------------------------------------- |
+| ![[10 - Jardim Gelado.png\|200]] | - [[Gruta Fria]] via [[Barco]]<br><br>- [[Haste Pálida]] via [[Barco]] |

@@ -8,6 +8,7 @@ Moradores trabalham principalmente com agricultura de inverno resistente e cria�
 A neve constante dificulta o transporte e o acesso, especialmente para idosos e crianças. A neve acumulada às vezes causa desabamentos de telhados.
 
 
-| Imagem Do Bairro            | Conexões |
-| --------------------------- | -------- |
-| ![[1 - Alva Neve.jpg\|200]] |          |
+| Imagem Do Bairro            | Conexões                                                               |
+| --------------------------- | ---------------------------------------------------------------------- |
+| ![[1 - Alva Neve.jpg\|200]] | - [[Bico Congelado]] via [[Barco]]<br>- [[Coroa Branca]] via [[Barco]] |
+

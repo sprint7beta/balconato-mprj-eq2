@@ -9,7 +9,7 @@ O frio dificulta a circulação e o armazenamento de mercadorias, além de provo
 
 
 
-| Imagem do Bairro                      | Conexões |
-| ------------------------------------- | -------- |
-| ![[9 - Instância Congelada.png\|200]] |          |
+| Imagem do Bairro                      | Conexões                                                               |
+| ------------------------------------- | ---------------------------------------------------------------------- |
+| ![[9 - Instância Congelada.png\|200]] | - [[Fardo Gélido]] via [[Trenó]]<br><br>- [[Gruta Fria]] via [[Trenó]] |
 

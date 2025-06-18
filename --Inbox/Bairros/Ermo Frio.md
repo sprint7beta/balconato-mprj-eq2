@@ -9,6 +9,6 @@ O isolamento dificulta o acesso a suprimentos e cuidados médicos. O frio intens
 
 
 
-| Imagem do Bairro            | Conexões |
-| --------------------------- | -------- |
-| ![[5 - Ermo Frio.png\|200]] |          |
+| Imagem do Bairro            | Conexões                                                                  |
+| --------------------------- | ------------------------------------------------------------------------- |
+| ![[5 - Ermo Frio.png\|200]] | - [[Dique do Lago]] via [[Trenó]]<br><br>- [[Haste Pálida]] via [[Trenó]] |

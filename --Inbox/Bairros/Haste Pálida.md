@@ -9,6 +9,6 @@ A torre demanda manutenção constante devido ao gelo e às tempestades, e o fri
 
 
 
-| Imagem do Bairro               | Conexões |
-| ------------------------------ | -------- |
-| ![[8 - Haste Pálida.png\|200]] |          |
+| Imagem do Bairro               | Conexões                                                                                                                                               |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![[8 - Haste Pálida.png\|200]] | - [[Bico Congelado]] via [[Barco]]<br><br>- [[Ermo Frio]] via [[Trenó]]<br><br>- [[Gruta Fria]] via [[Barco]]<br><br>- [[Jardim Gelado]] via [[Barco]] |
